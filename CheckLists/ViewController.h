@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "AddItemTableViewController.h"
+#import "ItemDetailViewController.h"
 
-@interface ViewController : UITableViewController<AddItemTableViewControllerDelegate>
+@interface ViewController : UITableViewController<ItemDetailViewControllerDelegate>
 //- (IBAction)addItem:(id)sender;
 
 

@@ -66,7 +66,7 @@
         <!--Add Item-->
         <scene sceneID="gIf-XI-8SF">
             <objects>
-                <tableViewController id="daw-sG-2zm" customClass="AddItemTableViewController" sceneMemberID="viewController">
+                <tableViewController id="daw-sG-2zm" customClass="ItemDetailViewController" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="grouped" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" sectionFooterHeight="18" id="kp2-8I-tLO">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -161,6 +161,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="RBR-DD-wcE"/>
+        <segue reference="70p-Oy-DaP"/>
     </inferredMetricsTieBreakers>
 </document>
